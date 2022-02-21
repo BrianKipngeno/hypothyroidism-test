@@ -1,4 +1,5 @@
-HYPOTHYROIDISM: Building a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
+**HYPOTHYROIDISM TEST PREDICTOR**
+
 This is a repository containing a python notebook for a clinical camp carried out by Nairobi Hospital
 with the task of Building a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid through two approaches
 1. Decision trees
